@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  border: solid 3px black;
+}
+
+.homePage{
+   border: solid 2px orange;
+   width: 500px;
+   
+}
+.page {
+  border: solid 2px orange;
+  width: 500px;
+  
+}
+.header {
+  border: solid 2px blue;
+}
+.bar{
+  border: solid 2px green;
+}
+.list{
+  border: solid 2px purple;
+
+}
+.emp{
+  border: solid 2px red;
+
+}
